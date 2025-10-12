@@ -1,0 +1,12 @@
+BROADER AIM : problem statement
+Need to build an AI agent that processes tabular datasets (atleast)
+and preprocesses them and genertes insights from them 
+Impact : reduction in time of data scientist and improving productivity
+
+tech
+frameworks: Langchain/Langgraph for AI agents, React etc for UI 
+model training and tuning : huggingface or else
+ML models : scikit-learn 
+preprocessing etc : pandas 
+UI design and frontend : can do cursor 
+
